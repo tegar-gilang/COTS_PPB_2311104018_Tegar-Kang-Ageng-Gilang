@@ -5,6 +5,7 @@ void main() {
   runApp(const CotsApp());
 }
 
+
 class CotsApp extends StatelessWidget {
   const CotsApp({super.key});
 
